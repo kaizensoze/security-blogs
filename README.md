@@ -1,6 +1,7 @@
 # security-blogs
 
 * Andrew Hay http://www.andrewhay.ca/
+* Ars Technica http://arstechnica.com/security/
 * Brian Krebs http://krebsonsecurity.com/
 * Bruce Schneier https://www.schneier.com/
 * CyberSecPolitics http://cybersecpolitics.blogspot.com/
@@ -24,4 +25,4 @@
 * Troy Hunt https://www.troyhunt.com/
 * welivesecurity http://www.welivesecurity.com/
 * Wired https://www.wired.com/category/security/
-* Zero Day http://www.zdnet.com/blog/security/
+* ZDNet http://www.zdnet.com/blog/security/

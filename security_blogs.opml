@@ -6,6 +6,7 @@
   <body>
     <outline text="Security Blogs" title="Security Blogs">
       <outline type="rss" text="Andrew Hay" title="Andrew Hay" xmlUrl="http://www.andrewhay.ca/feed" htmlUrl="http://www.andrewhay.ca/"/>
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="http://arstechnica.com/security/"/>
       <outline type="rss" text="Brian Krebs" title="Brian Krebs" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="http://krebsonsecurity.com/"/>
       <outline type="rss" text="Bruce Schneier" title="Bruce Schneier" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com/"/>
       <outline type="rss" text="CyberSecPolitics" title="CyberSecPolitics" xmlUrl="http://cybersecpolitics.blogspot.com/feeds/posts/default" htmlUrl="http://cybersecpolitics.blogspot.com/"/>
@@ -28,7 +29,7 @@
       <outline type="rss" text="Troy Hunt" title="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://www.troyhunt.com/"/>
       <outline type="rss" text="welivesecurity" title="welivesecurity" xmlUrl="http://feeds.feedburner.com/eset/blog" htmlUrl="http://www.welivesecurity.com/"/>
       <outline type="rss" text="Wired" title="Wired" xmlUrl="https://www.wired.com/category/security/feed/" htmlUrl="https://www.wired.com/category/security/"/>
-      <outline type="rss" text="Zero Day" title="Zero Day" xmlUrl="http://www.zdnet.com/blog/security/rss.xml" htmlUrl="http://www.zdnet.com/blog/security/"/>
+      <outline type="rss" text="ZDNet" title="ZDNet" xmlUrl="http://www.zdnet.com/blog/security/rss.xml" htmlUrl="http://www.zdnet.com/blog/security/"/>
     </outline>
   </body>
 </opml>
