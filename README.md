@@ -12,7 +12,7 @@
 * Graham Cluley https://www.grahamcluley.com/
 * Homeland Security News Wire http://www.homelandsecuritynewswire.com/topics/cybersecurity
 * Kevin Beaumont https://medium.com/@networksecurity
-* Krypt3ia https://krypt3ia.wordpress.com/page/2/
+* Krypt3ia https://krypt3ia.wordpress.com/
 * Lawfare https://lawfareblog.com/topic/cybersecurity
 * Malwarebytes https://blog.malwarebytes.com/
 * Matt Suiche https://medium.com/@msuiche
