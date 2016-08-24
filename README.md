@@ -5,7 +5,6 @@
 * Brian Krebs http://krebsonsecurity.com/
 * Bruce Schneier https://www.schneier.com/
 * CyberSecPolitics http://cybersecpolitics.blogspot.com/
-* Dan Goodin http://arstechnica.com/author/dan-goodin/
 * Dan Kaminsky https://dankaminsky.com/
 * Dark Reading http://www.darkreading.com/
 * Google https://security.googleblog.com/
@@ -17,6 +16,7 @@
 * Malwarebytes https://blog.malwarebytes.com/
 * Matt Suiche https://medium.com/@msuiche
 * naked security https://nakedsecurity.sophos.com/
+* Risk Assessment http://arstechnica.com/security/
 * Roger McClinton https://www.infosecblog.org/
 * Securelist https://securelist.com/
 * the grugq https://medium.com/@thegrugq

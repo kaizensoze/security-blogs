@@ -10,7 +10,6 @@
       <outline type="rss" text="Brian Krebs" title="Brian Krebs" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="http://krebsonsecurity.com/"/>
       <outline type="rss" text="Bruce Schneier" title="Bruce Schneier" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com/"/>
       <outline type="rss" text="CyberSecPolitics" title="CyberSecPolitics" xmlUrl="http://cybersecpolitics.blogspot.com/feeds/posts/default" htmlUrl="http://cybersecpolitics.blogspot.com/"/>
-      <outline type="rss" text="Dan Goodin" title="Dan Goodin" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="http://arstechnica.com/author/dan-goodin/"/>
       <outline type="rss" text="Dan Kaminsky" title="Dan Kaminsky" xmlUrl="https://dankaminsky.com/feed/" htmlUrl="https://dankaminsky.com/"/>
       <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" htmlUrl="http://www.darkreading.com/"/>
       <outline type="rss" text="Google" title="Google" xmlUrl="https://security.googleblog.com/feeds/posts/default" htmlUrl="https://security.googleblog.com/"/>
@@ -21,6 +20,7 @@
       <outline type="rss" text="Malwarebytes" title="Malwarebytes" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com/"/>
       <outline type="rss" text="Matt Suiche" title="Matt Suiche" xmlUrl="https://medium.com/feed/@msuiche" htmlUrl="https://medium.com/@msuiche"/>
       <outline type="rss" text="naked security" title="naked security" xmlUrl="https://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com/"/>
+      <outline type="rss" text="Risk Assessment" title="Risk Assessment" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="http://arstechnica.com/security/"/>
       <outline type="rss" text="Roger McClinton" title="Roger McClinton" xmlUrl="https://www.infosecblog.org/feed/" htmlUrl="https://www.infosecblog.org/"/>
       <outline type="rss" text="Securelist" title="Securelist" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com/"/>
       <outline type="rss" text="the grugq" title="the grugq" xmlUrl="https://medium.com/feed/@thegrugq" htmlUrl="https://medium.com/@thegrugq"/>
