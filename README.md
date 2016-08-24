@@ -21,8 +21,8 @@
 * Securelist https://securelist.com/
 * the grugq https://medium.com/@thegrugq
 * The State of Security http://www.tripwire.com/state-of-security/
-* Threat Level http://www.wired.com/category/threatlevel
 * Trail of Bits https://blog.trailofbits.com/
 * Troy Hunt https://www.troyhunt.com/
 * welivesecurity http://www.welivesecurity.com/
+* Wired https://www.wired.com/category/security/
 * Zero Day http://www.zdnet.com/blog/security/

@@ -25,10 +25,10 @@
       <outline type="rss" text="Securelist" title="Securelist" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com/"/>
       <outline type="rss" text="the grugq" title="the grugq" xmlUrl="https://medium.com/feed/@thegrugq" htmlUrl="https://medium.com/@thegrugq"/>
       <outline type="rss" text="The State of Security" title="The State of Security" xmlUrl="http://www.tripwire.com/state-of-security/feed/" htmlUrl="http://www.tripwire.com/state-of-security/"/>
-      <outline type="rss" text="Threat Level" title="Threat Level" xmlUrl="http://www.wired.com/feed/" htmlUrl="http://www.wired.com/category/threatlevel"/>
       <outline type="rss" text="Trail of Bits" title="Trail of Bits" xmlUrl="https://blog.trailofbits.com/feed/" htmlUrl="https://blog.trailofbits.com/"/>
       <outline type="rss" text="Troy Hunt" title="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://www.troyhunt.com/"/>
       <outline type="rss" text="welivesecurity" title="welivesecurity" xmlUrl="http://feeds.feedburner.com/eset/blog" htmlUrl="http://www.welivesecurity.com/"/>
+      <outline type="rss" text="Wired" title="Wired" xmlUrl="https://www.wired.com/feed/" htmlUrl="https://www.wired.com/category/security/"/>
       <outline type="rss" text="Zero Day" title="Zero Day" xmlUrl="http://www.zdnet.com/blog/security/rss.xml" htmlUrl="http://www.zdnet.com/blog/security/"/>
     </outline>
   </body>
