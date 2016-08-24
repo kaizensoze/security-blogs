@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Security Blogs</title>
+  </head>
+  <body>
+    <outline text="Security Blogs" title="Security Blogs">
+      <outline type="rss" text="Andrew Hay" title="Andrew Hay" xmlUrl="http://www.andrewhay.ca/feed" htmlUrl="http://www.andrewhay.ca/"/>
+      <outline type="rss" text="Andy Greenberg" title="Andy Greenberg" xmlUrl="https://www.wired.com/feed/" htmlUrl="https://www.wired.com/author/andygreenberg/"/>
+      <outline type="rss" text="Brian Krebs" title="Brian Krebs" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="http://krebsonsecurity.com/"/>
+      <outline type="rss" text="Bruce Schneier" title="Bruce Schneier" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com/"/>
+      <outline type="rss" text="CyberSecPolitics" title="CyberSecPolitics" xmlUrl="http://cybersecpolitics.blogspot.com/feeds/posts/default" htmlUrl="http://cybersecpolitics.blogspot.com/"/>
+      <outline type="rss" text="Dan Goodin" title="Dan Goodin" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="http://arstechnica.com/author/dan-goodin/"/>
+      <outline type="rss" text="Dan Kaminsky" title="Dan Kaminsky" xmlUrl="https://dankaminsky.com/feed/" htmlUrl="https://dankaminsky.com/"/>
+      <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" htmlUrl="http://www.darkreading.com/"/>
+      <outline type="rss" text="Google" title="Google" xmlUrl="https://security.googleblog.com/feeds/posts/default" htmlUrl="https://security.googleblog.com/"/>
+      <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed" htmlUrl="https://www.grahamcluley.com/"/>
+      <outline type="rss" text="Kevin Beaumont" title="Kevin Beaumont" xmlUrl="https://medium.com/feed/@networksecurity" htmlUrl="https://medium.com/@networksecurity"/>
+      <outline type="rss" text="Krypt3ia" title="Krypt3ia" xmlUrl="https://krypt3ia.wordpress.com/feed/" htmlUrl="https://krypt3ia.wordpress.com/page/2/"/>
+      <outline type="rss" text="Lawfare" title="Lawfare" xmlUrl="https://www.lawfareblog.com/taxonomy/term/5798/all/feed" htmlUrl="https://lawfareblog.com/topic/cybersecurity"/>
+      <outline type="rss" text="Malwarebytes" title="Malwarebytes" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com/"/>
+      <outline type="rss" text="Matt Suiche" title="Matt Suiche" xmlUrl="https://medium.com/feed/@msuiche" htmlUrl="https://medium.com/@msuiche"/>
+      <outline type="rss" text="naked security" title="naked security" xmlUrl="https://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com/"/>
+      <outline type="rss" text="Roger McClinton" title="Roger McClinton" xmlUrl="https://www.infosecblog.org/feed/" htmlUrl="https://www.infosecblog.org/"/>
+      <outline type="rss" text="Securelist" title="Securelist" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com/"/>
+      <outline type="rss" text="the grugq" title="the grugq" xmlUrl="https://medium.com/feed/@thegrugq" htmlUrl="https://medium.com/@thegrugq"/>
+      <outline type="rss" text="The State of Security" title="The State of Security" xmlUrl="http://www.tripwire.com/state-of-security/feed/" htmlUrl="http://www.tripwire.com/state-of-security/"/>
+      <outline type="rss" text="Threat Level" title="Threat Level" xmlUrl="http://www.wired.com/feed/" htmlUrl="http://www.wired.com/category/threatlevel"/>
+      <outline type="rss" text="Trail of Bits" title="Trail of Bits" xmlUrl="https://blog.trailofbits.com/feed/" htmlUrl="https://blog.trailofbits.com/"/>
+      <outline type="rss" text="Troy Hunt" title="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://www.troyhunt.com/"/>
+      <outline type="rss" text="welivesecurity" title="welivesecurity" xmlUrl="http://feeds.feedburner.com/eset/blog" htmlUrl="http://www.welivesecurity.com/"/>
+      <outline type="rss" text="Zero Day" title="Zero Day" xmlUrl="http://www.zdnet.com/blog/security/rss.xml" htmlUrl="http://www.zdnet.com/blog/security/"/>
+    </outline>
+  </body>
+</opml>
