@@ -1,7 +1,6 @@
 # security-blogs
 
 * Andrew Hay http://www.andrewhay.ca/
-* Andy Greenberg https://www.wired.com/author/andygreenberg/
 * Brian Krebs http://krebsonsecurity.com/
 * Bruce Schneier https://www.schneier.com/
 * CyberSecPolitics http://cybersecpolitics.blogspot.com/
