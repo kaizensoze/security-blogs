@@ -1,4 +1,4 @@
-# security-blogs
+# Security blogs
 
 * Andrew Hay http://www.andrewhay.ca/
 * Ars Technica http://arstechnica.com/security/
@@ -26,3 +26,7 @@
 * welivesecurity http://www.welivesecurity.com/
 * Wired https://www.wired.com/category/security/
 * ZDNet http://www.zdnet.com/blog/security/
+
+# RSS
+
+You can import an [opml file](https://github.com/kaizensoze/security-blogs/blob/master/security_blogs.opml) into your RSS reader of choice.
