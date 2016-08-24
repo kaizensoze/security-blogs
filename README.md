@@ -19,6 +19,7 @@
 * Project Zero https://googleprojectzero.blogspot.com/
 * Roger McClinton https://www.infosecblog.org/
 * Securelist https://securelist.com/
+* Team Cymru https://blog.team-cymru.org/
 * the grugq https://medium.com/@thegrugq
 * The Security Blogger http://www.thesecurityblogger.com/
 * The State of Security http://www.tripwire.com/state-of-security/
