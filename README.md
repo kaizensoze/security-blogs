@@ -16,7 +16,6 @@
 * Malwarebytes https://blog.malwarebytes.com/
 * Matt Suiche https://medium.com/@msuiche
 * naked security https://nakedsecurity.sophos.com/
-* Risk Assessment http://arstechnica.com/security/
 * Roger McClinton https://www.infosecblog.org/
 * Securelist https://securelist.com/
 * the grugq https://medium.com/@thegrugq
