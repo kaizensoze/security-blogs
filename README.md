@@ -16,6 +16,7 @@
 * Malwarebytes https://blog.malwarebytes.com/
 * Matt Suiche https://medium.com/@msuiche
 * naked security https://nakedsecurity.sophos.com/
+* Project Zero https://googleprojectzero.blogspot.com/
 * Roger McClinton https://www.infosecblog.org/
 * Securelist https://securelist.com/
 * the grugq https://medium.com/@thegrugq
