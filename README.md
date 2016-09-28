@@ -1,5 +1,6 @@
 # Security blogs
 
+* Andrew Ayer https://www.agwa.name/blog/
 * Andrew Hay http://www.andrewhay.ca/
 * Ars Technica http://arstechnica.com/security/
 * Brian Krebs http://krebsonsecurity.com/
@@ -32,3 +33,4 @@
 # RSS
 
 You can import an [opml file](https://github.com/kaizensoze/security-blogs/blob/master/security_blogs.opml) into your RSS reader of choice.
+

@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Security Blogs" title="Security Blogs">
+      <outline type="rss" text="Andrew Ayer" title="Andrew Ayer" xmlUrl="https://www.agwa.name/blog/feed" htmlUrl="https://www.agwa.name/blog/"/>
       <outline type="rss" text="Andrew Hay" title="Andrew Hay" xmlUrl="http://www.andrewhay.ca/feed" htmlUrl="http://www.andrewhay.ca/"/>
       <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="http://arstechnica.com/security/"/>
       <outline type="rss" text="Brian Krebs" title="Brian Krebs" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="http://krebsonsecurity.com/"/>
