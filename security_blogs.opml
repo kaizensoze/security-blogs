@@ -13,6 +13,7 @@
       <outline type="rss" text="CyberSecPolitics" title="CyberSecPolitics" xmlUrl="http://cybersecpolitics.blogspot.com/feeds/posts/default" htmlUrl="http://cybersecpolitics.blogspot.com/"/>
       <outline type="rss" text="Dan Kaminsky" title="Dan Kaminsky" xmlUrl="https://dankaminsky.com/feed/" htmlUrl="https://dankaminsky.com/"/>
       <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" htmlUrl="http://www.darkreading.com/"/>
+      <outline type="rss" text="Errata Security" title="Errata Security" xmlUrl="http://blog.erratasec.com/feeds/posts/default" htmlUrl="http://blog.erratasec.com/"/>
       <outline type="rss" text="Google" title="Google" xmlUrl="https://security.googleblog.com/feeds/posts/default" htmlUrl="https://security.googleblog.com/"/>
       <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed" htmlUrl="https://www.grahamcluley.com/"/>
       <outline type="rss" text="Kevin Beaumont" title="Kevin Beaumont" xmlUrl="https://medium.com/feed/@networksecurity" htmlUrl="https://medium.com/@networksecurity"/>

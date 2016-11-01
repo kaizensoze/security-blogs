@@ -8,6 +8,7 @@
 * CyberSecPolitics http://cybersecpolitics.blogspot.com/
 * Dan Kaminsky https://dankaminsky.com/
 * Dark Reading http://www.darkreading.com/
+* Errata Security http://blog.erratasec.com/
 * Google https://security.googleblog.com/
 * Graham Cluley https://www.grahamcluley.com/
 * Homeland Security News Wire http://www.homelandsecuritynewswire.com/topics/cybersecurity
