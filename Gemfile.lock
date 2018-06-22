@@ -18,7 +18,7 @@ DEPENDENCIES
   builder
   feedbag
   json
-  nokogiri
+  nokogiri (~> 1.8.2)
 
 BUNDLED WITH
    1.15.3
